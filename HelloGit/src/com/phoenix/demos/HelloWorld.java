@@ -6,7 +6,6 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello World to Git");
-		//These are my changes
 
 	}
 
